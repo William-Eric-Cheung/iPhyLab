@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">iPhyLab</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">学号</string>
+    <string name="prompt_password">密码</string>
+    <string name="prompt_checkcode">验证码</string>
+    <string name="action_sign_in">登陆</string>
+    <string name="action_sign_in_short">登陆</string>
+    <string name="error_invalid_email">学号格式错误</string>
+    <string name="error_invalid_password">密码长度错误</string>
+    <string name="error_incorrect_password">信息填写错误</string>
+    <string name="error_field_required">必填项</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

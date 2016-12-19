@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="200dp"
+        android:textSize="24dp"
+        android:textAlignment="center"
+        android:text="作者:   张艺辉"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"
+        android:textSize="24dp"
+        android:textAlignment="center"
+        android:text="学院:   软件学院"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"
+        android:textSize="24dp"
+        android:textAlignment="center"
+        android:text="主页: wec-tech.com"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="80dp"
+        android:textSize="24dp"
+        android:textAlignment="center"
+        android:text="Authority: William Eric Cheung"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"
+        android:textSize="24dp"
+        android:textAlignment="center"
+        android:text="College: Software College"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"
+        android:textSize="24dp"
+        android:textAlignment="center"
+        android:text="Website: wec-tech.com"
+        />
+</LinearLayout>
